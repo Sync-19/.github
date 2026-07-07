@@ -8,7 +8,6 @@
 
 <br/>
 
-# Sync19
 
 ### Move With Intelligence.
 
