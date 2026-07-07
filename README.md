@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- LOGO -->
-<img src="https://raw.githubusercontent.com/sync19/.github/main/profile/logo.png" alt="Sync19 Logo" width="200"/>
+<p align="center">
+  <img src="logo.png" alt="sync19 Logo" width="200" />
+</p>
+<!-- <img src="https://raw.githubusercontent.com/sync19/.github/main/profile/logo.png" alt="Sync19 Logo" width="200"/> -->
 
 <br/>
 
