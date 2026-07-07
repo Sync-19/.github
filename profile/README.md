@@ -8,8 +8,6 @@
 
 <br/>
 
-# Sync19
-
 ### Move With Intelligence.
 
 **AI-first company building intelligent solutions that bridge the gap between AI potential and real business impact.**
