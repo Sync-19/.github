@@ -130,20 +130,6 @@ goals          before code
 
 ---
 
-## The Team
-
-<div align="center">
-
-| | Name | Role | Focus |
-|:---:|:---|:---|:---|
-| 👤 | **Ali Hassan** | Chief Executive Officer | Strategy, Agritech, Sales & Partnerships |
-| 👤 | **Dawood Shahzad** | Chief Technology Officer | AI Engineering, System Architecture, Infrastructure |
-| 👤 | **Hamza Khalid** | Chief Operating Officer | AI/ML, Computer Vision, Data Science, Product Delivery |
-
-</div>
-
----
-
 ## Why Sync19
 
 ```
