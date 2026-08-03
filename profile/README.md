@@ -13,8 +13,8 @@
 **AI-first company building intelligent solutions that bridge the gap between AI potential and real business impact.**
 
 [![Website](https://img.shields.io/badge/Website-sync19.co-131F44?style=for-the-badge&logo=globe&logoColor=white)](https://sync19.co)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sync19-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/sync19/)
 [![Email](https://img.shields.io/badge/Email-Sync19.co%40gmail.com-5B6ED9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sync19.co@gmail.com)
-
 
 ---
 
@@ -163,6 +163,10 @@ If you have a challenge in Agritech, Textile, Healthcare, or Business Automation
 **📧 [Sync19.co@gmail.com](mailto:Sync19.co@gmail.com)**
 
 **🌐 [sync19.co](https://sync19.co)**
+
+**💼 [LinkedIn](https://www.linkedin.com/company/sync19/)**
+
+---
 
 ---
 
