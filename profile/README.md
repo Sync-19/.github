@@ -8,7 +8,7 @@
 
 <br/>
 
-### Move With Intelligence.
+### AI in Sync With With Your Vision.
 
 **AI-first company building intelligent solutions that bridge the gap between AI potential and real business impact.**
 
