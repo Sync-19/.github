@@ -12,9 +12,9 @@
 
 **AI-first company building intelligent solutions that bridge the gap between AI potential and real business impact.**
 
-[![Website](https://img.shields.io/badge/Website-sync19.co-131F44?style=for-the-badge&logo=globe&logoColor=white)](https://sync19.com)
+[![Website](https://img.shields.io/badge/Website-sync19.com-131F44?style=for-the-badge&logo=globe&logoColor=white)](https://sync19.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sync19-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/sync19/)
-[![Email](https://img.shields.io/badge/Email-Sync19.co%40gmail.com-5B6ED9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@sync19.com)
+[![Email](https://img.shields.io/badge/Email-hello@Sync19.com-5B6ED9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@sync19.com)
 
 ---
 
